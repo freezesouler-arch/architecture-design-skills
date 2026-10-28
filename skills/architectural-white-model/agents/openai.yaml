@@ -1,0 +1,4 @@
+interface:
+  display_name: "建筑事务所精细白模"
+  short_description: "将建筑模型视图转为精细白模渲染，锁定几何、相机和水域边界并逐图校核"
+  default_prompt: "使用 $architectural-white-model 将本项目模型视图转为精细白模效果，保持原有几何、相机与场地边界。"

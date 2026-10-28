@@ -1,0 +1,7 @@
+interface:
+  display_name: "片区概念方案"
+  short_description: "从政府价值、开发逻辑与全球案例推导片区概念方案"
+  brand_color: "#0B3042"
+  default_prompt: "使用 $district-concept-planning 梳理这个片区项目的决策逻辑、案例对标、指标体系与概念方案汇报。"
+policy:
+  allow_implicit_invocation: true
